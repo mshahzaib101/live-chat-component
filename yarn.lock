@@ -8338,13 +8338,6 @@ react-dom@^16.7.0:
     prop-types "^15.6.2"
     scheduler "^0.12.0"
 
-react-draggable-component@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/react-draggable-component/-/react-draggable-component-6.0.0.tgz#0bd8312deab5b11c6651e01f78f5210f7873ebad"
-  integrity sha512-QyfGSOoAAFRHnWN/TAlNU2afZHQPKneZURKk4mvZIqIBBcUemk/S1+ufbH0p1F5d1a+tjOjD3TKob+u0KAjafg==
-  dependencies:
-    prop-types "^15.5.10"
-
 react-draggable@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/react-draggable/-/react-draggable-3.1.1.tgz#ed1db43e09b146805f6d158296e58eae4f768d36"
@@ -9838,9 +9831,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.3.4:
   version "3.3.9"
