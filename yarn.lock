@@ -8338,13 +8338,6 @@ react-dom@^16.7.0:
     prop-types "^15.6.2"
     scheduler "^0.12.0"
 
-react-draggable-component@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/react-draggable-component/-/react-draggable-component-6.0.0.tgz#0bd8312deab5b11c6651e01f78f5210f7873ebad"
-  integrity sha512-QyfGSOoAAFRHnWN/TAlNU2afZHQPKneZURKk4mvZIqIBBcUemk/S1+ufbH0p1F5d1a+tjOjD3TKob+u0KAjafg==
-  dependencies:
-    prop-types "^15.5.10"
-
 react-draggable@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/react-draggable/-/react-draggable-3.1.1.tgz#ed1db43e09b146805f6d158296e58eae4f768d36"
@@ -9702,9 +9695,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
